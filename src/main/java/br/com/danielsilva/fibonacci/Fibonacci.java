@@ -4,7 +4,7 @@ public class Fibonacci {
 
     public static void main(String[] args) {
 
-        System.out.println(findElement(70L));
+        System.out.println(findElement(7L));
 
     }
 

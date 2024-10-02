@@ -9,7 +9,7 @@ public class FibonacciPD {
 
 
     public static void main(String[] args) {
-        int n = 6;
+        int n = 20;
         System.out.println(encontrarElementoPD(n));
 
     }

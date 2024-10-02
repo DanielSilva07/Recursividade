@@ -3,7 +3,7 @@ package br.com.danielsilva.fatorial;
 public class Fatorial {
     public static void main(String[] args) {
 
-        Long n = 60L;
+        Long n = 7L;
         System.out.println(encontrarElemento(n));
 
     }

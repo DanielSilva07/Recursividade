@@ -6,7 +6,7 @@ public class FatorialPD {
 
     public static void main(String[] args) {
 
-        int n = 70;
+        int n = 60;
 
         System.out.println(fatorial(n));
 
